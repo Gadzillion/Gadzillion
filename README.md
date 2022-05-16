@@ -12,4 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-![Visitor Count](https : //profile-counter.glitch.me/Gadzillion/count.svg)
+```
+![Visitor Count](https : //profile-counter.glitch.me/{Gadzillion}/count.svg)
+```
