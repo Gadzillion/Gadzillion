@@ -12,6 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-```
-![Visitor Count](https : //profile-counter.glitch.me/Gadzillion/count.svg)
-```
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[ICON SLUG].svg" />
