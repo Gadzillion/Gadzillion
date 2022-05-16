@@ -12,3 +12,35 @@ You can click the Preview link to take a look at your changes.
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/simpleicons.svg" />
+
+<h1 align="center">Hi 👋, I'm Gadzillion</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gadzillion&label=Profile%20views&color=0e75b6&style=flat" alt="gadzillion" /> </p>
+
+- 🔭 I’m currently working on **asd**
+
+- 🌱 I’m currently learning **asd**
+
+- 👯 I’m looking to collaborate on **asd**
+
+- 🤝 I’m looking for help with **asd**
+
+- 👨‍💻 All of my projects are available at [asd](asd)
+
+- 📝 I regularly write articles on [asd](asd)
+
+- 💬 Ask me about **asd**
+
+- 📫 How to reach me **ads**
+
+- 📄 Know about my experiences [asd](asd)
+
+- ⚡ Fun fact **ads**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
