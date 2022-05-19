@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">A passionate QA Automation</h3>
 
-
-### Tools I work upon : 🛠
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gadzillion&label=Profile%20views&color=0e75b6&style=flat" alt="gadzillion" /> </p>
 
@@ -17,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 - 🤔 I’m looking for help in Machine Learning / Data Science
 - 😄 Pronouns: He/His
 - 📄 Know about my experiences [https://www.linkedin.com/in/sergey-perevarichev-b50405193/](https://www.linkedin.com/in/sergey-perevarichev-b50405193/)
+
+<hr>
 
 ### Tools I work upon : 🛠
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gadzillion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
